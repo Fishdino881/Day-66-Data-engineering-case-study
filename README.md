@@ -97,10 +97,10 @@ Examples:
 
 ##  Benefits of Data Engineering Pipelines
 
-✔ Handles massive datasets
-✔ Automates data workflows
-✔ Enables real-time analytics
-✔ Supports machine learning systems
+ Handles massive datasets
+ Automates data workflows
+ Enables real-time analytics
+ Supports machine learning systems
 
 ---
 
